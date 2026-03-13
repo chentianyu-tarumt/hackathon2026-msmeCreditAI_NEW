@@ -121,4 +121,4 @@ A: Don't worry — check the "How to Improve Your Score" section for specific st
 
 ---
 
-*MSME CreditAI — Empowering small businesses with fair, inclusive credit access.*
+*Developed by Liew Qian Xue, Hew En Qi, Goh Yi Jun and Chen Tian Yu. Strictly for Hackathon 2026 use purposes only!*
