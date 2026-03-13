@@ -6,6 +6,7 @@
 👉 **[Click here to access MSME CreditAI](https://hackathon2026-msmecreditainew-59zxm3appq2ejjvhjdmhf3f.streamlit.app/)**
 
 ---
+## Setup Section
 
 ## 🚀 Getting Started
 
